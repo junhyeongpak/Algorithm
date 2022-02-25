@@ -1,0 +1,29 @@
+﻿  소스.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xutility(1516,1): error C2064: 항은 2개의 인수를 받아들이는 함수로 계산되지 않습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xutility(1516,1): message : 클래스에서 'operator()' 또는 사용자 정의 변환 연산자를 적절한 수의 인수를 취하는 함수 포인터 또는 함수 참조로 정의하지 않습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xutility(1515): message : 컴파일되는 함수 템플릿 인스턴스화 'bool std::_Debug_lt_pred<_Pr&,int&,_Ty&,0>(cmp&,_Ty1,_Ty2) noexcept(<expr>)'에 대한 참조를 확인하세요.
+          with
+          [
+              _Pr=cmp,
+              _Ty=int,
+              _Ty1=int &,
+              _Ty2=int &
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\algorithm(5583): message : 컴파일되는 함수 템플릿 인스턴스화 'void std::_Push_heap_by_index<int*,int,_Fn>(_RanIt,int,int,_Ty &&,_Pr)'에 대한 참조를 확인하세요.
+          with
+          [
+              _Fn=cmp,
+              _RanIt=int *,
+              _Ty=int,
+              _Pr=cmp
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\queue(268): message : 컴파일되는 함수 템플릿 인스턴스화 'void std::push_heap<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>,_Pr>(_RanIt,_RanIt,_Pr)'에 대한 참조를 확인하세요.
+          with
+          [
+              _Ty=int,
+              _Pr=cmp,
+              _RanIt=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<int>>>
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\queue(266): message : 클래스 템플릿 멤버 함수 'void std::priority_queue<int,std::vector<int,std::allocator<int>>,cmp>::push(const int &)'을(를) 컴파일하는 중입니다.
+C:\Users\junhyeong\Desktop\백준자료구조\우선순위 큐\가운데를 말해요\가운데를 말해요\소스.cpp(22): message : 컴파일되는 함수 템플릿 인스턴스화 'void std::priority_queue<int,std::vector<int,std::allocator<int>>,cmp>::push(const int &)'에 대한 참조를 확인하세요.
+C:\Users\junhyeong\Desktop\백준자료구조\우선순위 큐\가운데를 말해요\가운데를 말해요\소스.cpp(17): message : 컴파일되는 클래스 템플릿 인스턴스화 'std::priority_queue<int,std::vector<int,std::allocator<int>>,cmp>'에 대한 참조를 확인하세요.

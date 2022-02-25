@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "백준_1541_잃어버린 괄호", "백준_1541_잃어버린 괄호\백준_1541_잃어버린 괄호.pyproj", "{DC1B01B6-4996-4E70-AFD8-14DDB9CE5689}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC1B01B6-4996-4E70-AFD8-14DDB9CE5689}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC1B01B6-4996-4E70-AFD8-14DDB9CE5689}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {449B2BAB-3D33-47B3-9CA9-A533E26E2F13}
+	EndGlobalSection
+EndGlobal

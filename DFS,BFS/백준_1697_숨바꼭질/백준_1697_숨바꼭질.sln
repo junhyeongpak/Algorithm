@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "백준_1697_숨바꼭질", "백준_1697_숨바꼭질\백준_1697_숨바꼭질.pyproj", "{395BD334-8853-4F08-92FF-BAAA4CCA7333}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{395BD334-8853-4F08-92FF-BAAA4CCA7333}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{395BD334-8853-4F08-92FF-BAAA4CCA7333}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F59AAE81-C0DC-49C0-830C-4900CD039D74}
+	EndGlobalSection
+EndGlobal

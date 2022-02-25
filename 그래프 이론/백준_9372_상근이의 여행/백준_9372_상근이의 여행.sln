@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "백준_9372_상근이의 여행", "백준_9372_상근이의 여행\백준_9372_상근이의 여행.pyproj", "{4C3C0B63-9411-4451-994E-F609697D841B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C3C0B63-9411-4451-994E-F609697D841B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C3C0B63-9411-4451-994E-F609697D841B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E49AB264-CE35-4371-91B7-7FD3BA7A8C72}
+	EndGlobalSection
+EndGlobal

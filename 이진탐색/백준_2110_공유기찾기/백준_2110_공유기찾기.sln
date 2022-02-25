@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "백준_2110_공유기찾기", "백준_2110_공유기찾기\백준_2110_공유기찾기.pyproj", "{14B02253-9DF2-452D-8D71-F8024349AF62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14B02253-9DF2-452D-8D71-F8024349AF62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14B02253-9DF2-452D-8D71-F8024349AF62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB7C5060-2E7E-4C05-B38D-4665C33B189B}
+	EndGlobalSection
+EndGlobal

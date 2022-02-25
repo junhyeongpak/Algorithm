@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "백준_4386_별자리 만들기", "백준_4386_별자리 만들기\백준_4386_별자리 만들기.pyproj", "{E5A6D5F3-7CDA-4C51-B34A-183CCD199283}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5A6D5F3-7CDA-4C51-B34A-183CCD199283}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5A6D5F3-7CDA-4C51-B34A-183CCD199283}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {974CAAD2-1D12-447F-B141-3A88B977978F}
+	EndGlobalSection
+EndGlobal
