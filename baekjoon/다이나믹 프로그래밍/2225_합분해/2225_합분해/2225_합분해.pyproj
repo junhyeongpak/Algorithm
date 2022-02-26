@@ -2,15 +2,15 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>0e72b29a-14c4-4c6d-bd0c-07653fd9d028</ProjectGuid>
+    <ProjectGuid>a731e85c-d1ee-4153-8541-d6f89d871832</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>백준_1026_보물.py</StartupFile>
+    <StartupFile>_2225_합분해.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
-    <Name>백준_1026_보물</Name>
-    <RootNamespace>백준_1026_보물</RootNamespace>
+    <Name>2225_합분해</Name>
+    <RootNamespace>2225_합분해</RootNamespace>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
@@ -21,7 +21,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="백준_1026_보물.py" />
+    <Compile Include="_2225_합분해.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
